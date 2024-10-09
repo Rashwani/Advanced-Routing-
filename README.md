@@ -1,11 +1,12 @@
-
 # Advanced Request Routing and Load Balancing with AWS
 
 This project showcases how to build a robust architecture that handles **Advanced Request Routing** and **Load Balancing** using **Amazon EC2** and **Application Load Balancer (ALB)**. The solution ensures efficient traffic management, high availability, and fault tolerance by dynamically routing requests based on predefined rules.
 
 ## Project Overview
 
-In this project, I set up advanced request routing and load balancing using **Application Load Balancer (ALB)** with **Amazon EC2** instances to manage and distribute incoming traffic. This architecture ensures optimized request distribution and high availability by routing traffic based on path, host headers, and more.
+In this project, I set up advanced request routing and load balancing using **Application Load Balancer (ALB)** with **Amazon EC2** instances to manage and distribute incoming traffic. This architecture ensures optimized request distribution and high availability by routing traffic based on path, host headers, and more. 
+
+You can view the project details [here](https://awsportfolio.sila.studio/project/advance-routing-policy/).
 
 This project was developed as part of the **Digital Cloud Training** bootcamp, where I learned how to implement advanced routing policies and load balancing strategies on AWS.
 
@@ -58,4 +59,4 @@ This project was completed as part of the **Digital Cloud Training** bootcamp.
 
 This project demonstrates how to build a highly available, scalable, and fault-tolerant architecture using **Amazon EC2** and **Application Load Balancer (ALB)**. With advanced request routing and automatic scaling, the solution is equipped to handle complex traffic management for modern applications.
 
-![Screenshot 2024-04-12 183322](https://github.com/user-attachments/assets/9cfea3d4-8007-44da-855b-42812d0eab46)
+![Screenshot 2024-04-12 183322](https://github.com/user-attachments/assets/b519f27e-08ae-4cfd-9baf-a40713362135)
